@@ -1,0 +1,26 @@
+{
+  "name": "@ethanyt/bit",
+  "version": "1.0.4",
+  "description": "北理工上网命令行脚本",
+  "main": "bit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ethan-yt/BIT-WEB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ethan-yt/BIT-WEB/issues"
+  },
+  "bin": {
+    "bit": "./bit.js"
+  },
+  "homepage": "https://github.com/Ethan-yt/BIT-WEB#readme",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "request": "^2.88.0"
+  }
+}
