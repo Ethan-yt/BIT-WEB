@@ -5,11 +5,15 @@
 ![GitHub stars](https://img.shields.io/github/stars/ethan-yt/bit-web.svg?style=social)
 
 北理工上网命令行脚本，支持联通移动（仅在连接BIT-WEB时可用）
+```
+Install:
+  npm i @ethanyt/bit -g
+```
 
 ```
 Commands:
-  login|l <username> <password> [yys] [ac_id]  Login
-  logout <username> [yys] [ac_id]              Logout
+  login|l <username> <password> [yys] [ac_id]  
+  logout <username> [yys] [ac_id]             
 
   yys: @liantong | @yidong | @xiaoyuanwang
   ac_id: 8 | 1
